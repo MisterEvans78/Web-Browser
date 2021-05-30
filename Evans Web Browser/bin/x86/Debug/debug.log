@@ -1,0 +1,4 @@
+[0529/193632.278:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0529/200249.285:INFO:CONSOLE(0)] "Autofocus processing was blocked because a document already has a focused element.", source: https://www.google.fr/ (0)
+[0529/200319.559:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0529/233210.667:ERROR:shared_image_manager.cc(214)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
